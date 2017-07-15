@@ -1,7 +1,0 @@
-{
-  "name": "spring-rest-webapp",
-  "description": "This is a sample REST based Spring webapp",
-  "repository": "https://github.com/abhinavmishra14/spring-rest-webapp",
-  "logo": "https://github.com/abhinavmishra14/spring-rest-webapp/blob/master/logo.png",
-  "keywords": ["spring-rest-webapp", "REST Based webapp"]
-}
