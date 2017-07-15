@@ -1,0 +1,7 @@
+{
+  "name": "spring-rest-webapp",
+  "description": "This is a sample REST based Spring webapp",
+  "repository": "https://github.com/abhinavmishra14/spring-rest-webapp",
+  "logo": "",
+  "keywords": ["spring-rest-webapp", "REST Based webapp"]
+}
